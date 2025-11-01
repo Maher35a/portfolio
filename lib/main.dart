@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           debugShowCheckedModeBanner: false,
           title: 'Ahmed Maher Portfolio',
           theme: ThemeData(primarySwatch: Colors.blue),
-          home: PortfolioPage(),
+          home: PortfolioWebApp(),
         );
       },
     );
